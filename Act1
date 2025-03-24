@@ -13,6 +13,20 @@
 ## ¿Qué es Markdown?
 
 Markdown es un lenguaje de marcado ligero utilizado para dar formato al texto. Permite una conversión fácil a HTML y es ampliamente utilizado en documentación y archivos README. Es simple de usar y ayuda a estructurar el texto con encabezados, listas, enlaces y más.
+## Comandos de Git
+
+Aquí están algunos de los comandos más utilizados en Git:
+
+### Crear, ver y eliminar ramas:
+```bash
+git branch nombre-de-la-rama
+git branch  # Ver todas las ramas locales
+git checkout nombre-de-la-rama  # Cambiar de rama
+
+git commit -m "Mensaje descriptivo del commit"
+
+
+
 
 Agregando archivo README.md con información del curso
 
